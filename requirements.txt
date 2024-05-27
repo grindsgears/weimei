@@ -1,4 +1,7 @@
 streamlit_option_menu
 opencv-python-headless      
 mediapipe
+libgl1
+libglib2.0-0
+
 
