@@ -1,0 +1,2 @@
+datetime,name,phone,gender,birthdate,height,weight,pregnant,children,fitnessLevel,injuryPart,disease,currentlyPain,daysOfWeek,timeOfDay,shoulderMobility,activeStraightLegRaise,hurdleStep,deepSquat,rotaryStability,highKnees
+2024-05-26 20:26:17.170699,测试,2,女,2024-05-26,120cm,30kg,是,是,小白,无,无,无,2天,上午,手指接触，但有困难,腿部抬高超过对侧大腿的中点,动作完成，但控制不佳,无需协助，完成深蹲，大腿低于膝盖,流畅完成动作,80-120次
