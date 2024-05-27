@@ -1,4 +1,4 @@
 streamlit_option_menu
 opencv-contrib-python    
 opencv-python           
-openjpeg  
+
